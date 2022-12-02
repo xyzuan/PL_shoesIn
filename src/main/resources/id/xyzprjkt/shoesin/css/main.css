@@ -3,7 +3,7 @@
 
 /* =============== Home Page =============== */
 #home-container {
-    -fx-background-image: url("https://github.com/xyzuan/PL_shoesIn./raw/main/src/main/resources/id/xyzprjkt/modul6/img/landingBg.png");
+    -fx-background-image: url("https://github.com/xyzuan/PL_shoesIn/raw/main/src/main/resources/id/xyzprjkt/shoesin/img/landingBg.png");
     -fx-background-position: center center;
     -fx-background-size: cover;
     -fx-font-family: "Poppins", sans-serif;
@@ -50,7 +50,7 @@
 
 /* =============== Main Container =============== */
 #main-container {
-    -fx-background-image: url("https://github.com/xyzuan/PL_shoesIn./raw/main/src/main/resources/id/xyzprjkt/modul6/img/dashboardBg.png");
+    -fx-background-image: url("https://github.com/xyzuan/PL_shoesIn/raw/main/src/main/resources/id/xyzprjkt/shoesin/img/dashboardBg.png");
     -fx-background-position: center center;
     -fx-background-size: cover;
     -fx-font-family: "Poppins", sans-serif;
